@@ -56,3 +56,5 @@ My coding style emphasizes readability, maintainability, and efficiency. I striv
 ## 📈 GitHub Stats
 
 [Add GitHub Stats Widgets Here] (e.g., using GitHub profile README stats generators)
+
+P.S: I used my repo analyzer project to generate this Readme file!
