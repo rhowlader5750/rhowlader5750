@@ -53,8 +53,5 @@ I'm a data-driven developer with a passion for building applications that levera
 
 My coding style emphasizes readability, maintainability, and efficiency. I strive to write clean, well-documented code that follows best practices. I favor modular design, separating concerns into distinct components and functions to improve organization and reusability.  I use descriptive variable names and comments to enhance understanding.  In my machine learning projects, I focus on clear data preprocessing steps and model evaluation metrics.
 
-## 📈 GitHub Stats
-
-[Add GitHub Stats Widgets Here] (e.g., using GitHub profile README stats generators)
 
 P.S: I used my repo analyzer project to generate this Readme file!
